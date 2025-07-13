@@ -2,6 +2,8 @@
 CS:APP Shell Lab
 ################
 
+Completed by Hardy Lewis and Cam Estep
+
 Files:
 
 Makefile	:  Compiles your shell program and runs the tests
